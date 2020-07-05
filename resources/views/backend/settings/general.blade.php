@@ -938,8 +938,6 @@
                         </div>
                         <div class="col-12 mt-2">
                             <p>{!! __('labels.backend.general_settings.api_clients.note') !!}</p>
-
-                            <a target="_blank" href="https://documenter.getpostman.com/view/5183624/SW18uZwk?version=latest" class="btn btn-dark  font-weight-bold text-white">{{__('labels.backend.general_settings.api_clients.developer_manual')}} <i class="fa fa-arrow-right ml-2"></i></a>
                         </div>
                     </div>
                     <div class="row mt-4 mb-4">
